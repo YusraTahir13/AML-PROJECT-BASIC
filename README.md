@@ -1,3 +1,3 @@
-# APPLIED MACHINE LEARNING PROJECT-BASIC #
+# Applied Machine Learning Project-BASIC #
 # Breast Cancer Wisconsin (Diagnostic) - Benign vs Malignant using Logistic Regression #
 
