@@ -14,19 +14,7 @@ The goal is to demonstrate how computational methods can assist in early cancer 
 
 The dataset contains 569 samples obtained from **Fine Needle Aspiration (FNA)** biopsies of breast masses.
 
-Each sample is described using 30 numerical features that capture the characteristics of cell nuclei, including(radius, texture, perimeter, area and etc)
-
-* Radius
-  
-* Texture
-  
-* Perimeter
-  
-* Area
-  
-* Smoothness
-  
-* Concavity
+Each sample is described using 30 numerical features that capture the characteristics of cell nuclei, including (radius, texture, perimeter, area, smoothness and etc)
 
 These features are computed as:
 
@@ -38,11 +26,11 @@ These features are computed as:
 
  ## Objective ##
 
-To build a binary classification model that can accurately predict:
+* To build a binary classification model using Logistic Regression model to accurately classify tumors as benign (Cancerous) or malignant (Non-cancerous) based on cellular morphology.
 
-* Malignant (Cancerous tumor)
-  
-* Benign (Non-cancerous tumor)
+* Compare model performance against a baseline classifier to validate predictive improvement.
+
+* Prioritize reducing false negatives, ensuring malignant cases are rarely missed.
 
 ## Challenges ##
 
@@ -50,7 +38,7 @@ To build a binary classification model that can accurately predict:
 
 * Presence of highly correlated features (mean, SE, worst values)
   
-* Need for feature scaling due to varying ranges
+* Need for **feature scaling** due to varying ranges
 
 ## Methodology ##
 
@@ -80,6 +68,10 @@ Selected relevant features for model training
 
 Train-test split to evaluate model performance
 
+**5. Baseline Model (Dummy Classifier)**
+
+A Dummy Classifier was used as a baseline, predicting the most frequent class without learning from features. It achieved 63% accuracy, serving as a reference to ensure the Logistic Regression model performs better than uninformed prediction.
+
 **5. Feature Scaling**
 
 Applied `StandardScaler` to normalize feature values
@@ -98,9 +90,7 @@ Simple and interpretable model
 
 Works well with structured tabular data
 
-Provides probability outputs, useful in medical diagnosis
-
-Efficient and fast to train
+Efficient and fast to train, provides probability outputs, useful in medical diagnosis
 
 ## Model Evaluation ##
 
@@ -116,9 +106,9 @@ AUC Score
 
 ## Key Metrics ##
 
-Accuracy: 
+Accuracy: 98%
 
-ROC-AUC Score: 
+ROC-AUC Score: 0.99
 
 ## Results Interpretation ##
 
@@ -131,3 +121,9 @@ Feature scaling improves model performance
 ## Bioinformatics Relevance ##
 
 This project highlights the role of machine learning in bioinformatics and medical diagnostics, where computational models assist in analyzing biological data for disease prediction and decision-making.
+
+## Author ##
+
+Yusra Tahir
+
+Bioinformatics - University of Bologna
