@@ -74,7 +74,7 @@ A **Dummy Classifier** was used as a baseline, predicting the most frequent clas
 
 **5. Feature Scaling**
 
-Applied `StandardScaler` to normalize feature values
+Applied `StandardScaler` to normalize feature values.
 
 **6. Model Building**
 
