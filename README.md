@@ -12,7 +12,7 @@ The goal is to demonstrate how computational methods can assist in early cancer 
 
 # Description #
 
-The dataset contains 569 samples obtained from **Fine Needle Aspiration (FNA)** biopsies of breast masses.
+The dataset contains **569** samples obtained from **Fine Needle Aspiration (FNA)** biopsies of breast masses.
 
 Each sample is described using **30 numerical features** that capture the characteristics of cell nuclei, including **(radius, texture, perimeter, area, smoothness and etc)**
 
@@ -52,21 +52,21 @@ These features are computed as:
 
 **2. Exploratory Data Analysis (EDA)**
 
-* Distribution of features
+* Distribution of features.
 
-* Correlation heatmap
+* Correlation heatmap.
 
-* Class distribution analysis
+* Class distribution analysis.
 
 **3. Feature Engineering**
 
-* Identified and handled multicollinearity
+* Identified and handled multicollinearity.
 
-* Selected relevant features for model training
+* Selected relevant features for model training.
 
 **4. Data Splitting**
 
-Train-test split to evaluate model performance
+Train-test split to evaluate model performance.
 
 **5. Baseline Model (Dummy Classifier)**
 
@@ -110,11 +110,11 @@ ROC-AUC Score: 0.99
 
 ## Results Interpretation ##
 
-* The model successfully distinguishes between malignant and benign tumors
+* The model successfully distinguishes between malignant and benign tumors.
 
-* Balanced class weights improve detection of malignant cases
+* Balanced class weights improve detection of malignant cases.
 
-* Feature scaling improves model performance
+* Feature scaling improves model performance.
 
 ## Bioinformatics Relevance ##
 
