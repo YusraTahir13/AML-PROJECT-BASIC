@@ -128,6 +128,6 @@ Balanced class weights improve detection of malignant cases
 
 Feature scaling improves model performance
 
-## Bioinformatics Relevance##
+## Bioinformatics Relevance ##
 
 This project highlights the role of machine learning in bioinformatics and medical diagnostics, where computational models assist in analyzing biological data for disease prediction and decision-making.
