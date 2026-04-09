@@ -57,18 +57,23 @@ To build a binary classification model that can accurately predict:
 **1. Data Preprocessing**
 
 Removed unnecessary columns (e.g., ID)
+
 Encoded target labels (M = 1, B = 0)
+
 Checked for missing values
 
 **2. Exploratory Data Analysis (EDA)**
 
 Distribution of features
+
 Correlation heatmap
+
 Class distribution analysis
 
 **3. Feature Engineering**
 
 Identified and handled multicollinearity
+
 Selected relevant features for model training
 
 **4. Data Splitting**
@@ -102,19 +107,25 @@ Efficient and fast to train
 The model performance was evaluated using:
 
 Accuracy
+
 Confusion Matrix
+
 ROC Curve
+
 AUC Score
 
 ## Key Metrics ##
 
 Accuracy: 
+
 ROC-AUC Score: 
 
 ## Results Interpretation ##
 
 The model successfully distinguishes between malignant and benign tumors
+
 Balanced class weights improve detection of malignant cases
+
 Feature scaling improves model performance
 
 ## Bioinformatics Relevance##
