@@ -14,7 +14,7 @@ The goal is to demonstrate how computational methods can assist in early cancer 
 
 The dataset contains 569 samples obtained from **Fine Needle Aspiration (FNA)** biopsies of breast masses.
 
-Each sample is described using 30 numerical features that capture the characteristics of cell nuclei, including:
+Each sample is described using 30 numerical features that capture the characteristics of cell nuclei, including(radius, texture, perimeter, area and etc)
 
 * Radius
   
