@@ -42,6 +42,10 @@ These features are computed as:
 
 ## Methodology ##
 
+All of the workflow is saved in notebook by using the code execution and also the markdown is present for description.
+
+[Logistics regression notebook]
+
 **1.  Data Preprocessing**
 
 * Removed unnecessary columns (e.g., ID)
