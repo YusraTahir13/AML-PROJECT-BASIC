@@ -100,9 +100,7 @@ Accuracy
 
 Confusion Matrix
 
-ROC Curve
-
-AUC Score
+ROC Curve - AUC Score
 
 ## Key Metrics ##
 
