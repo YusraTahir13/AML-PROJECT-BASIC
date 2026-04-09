@@ -124,4 +124,4 @@ This project highlights the role of machine learning in bioinformatics and medic
 
 Yusra Tahir
 
-Masters Student - Bioinformatics  - University of Bologna
+Master's student - Bioinformatics  - University of Bologna
