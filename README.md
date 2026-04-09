@@ -42,7 +42,7 @@ These features are computed as:
 
 ## Methodology ##
 
-**1. Data Preprocessing**
+**1.  Data Preprocessing**
 
 * Removed unnecessary columns (e.g., ID)
 
@@ -50,7 +50,7 @@ These features are computed as:
 
 * Checked for missing values
 
-**2. Exploratory Data Analysis (EDA)**
+**2.  Exploratory Data Analysis (EDA)**
 
 * Distribution of features.
 
@@ -58,25 +58,25 @@ These features are computed as:
 
 * Class distribution analysis.
 
-**3. Feature Engineering**
+**3.  Feature Engineering**
 
 * Identified and handled multicollinearity.
 
 * Selected relevant features for model training.
 
-**4. Data Splitting**
+**4.  Data Splitting**
 
 Train-test split to evaluate model performance.
 
-**5. Baseline Model (Dummy Classifier)**
+**5.  Baseline Model (Dummy Classifier)**
 
 A **Dummy Classifier** was used as a baseline, predicting the most frequent class without learning from features. It achieved **63% accuracy**, serving as a reference to ensure the Logistic Regression model performs better than uninformed prediction.
 
-**5. Feature Scaling**
+**5.  Feature Scaling**
 
 Applied `StandardScaler` to normalize feature values.
 
-**6. Model Building**
+**6.  Model Building**
 
 Logistic Regression model used
 
