@@ -34,11 +34,11 @@ These features are computed as:
 
 ## Challenges ##
 
-* Class imbalance (**357 benign vs 212 malignant**)
+* Class imbalance (**357 benign vs 212 malignant**).
 
-* Presence of highly correlated features (mean, SE, worst values)
+* Presence of highly correlated features (mean, SE, worst values).
   
-* Need for **feature scaling** due to varying ranges
+* Need for **feature scaling** due to varying ranges.
 
 ## Methodology ##
 
@@ -86,11 +86,11 @@ Handled class imbalance using:
 
 **Why Logistic Regression?**
 
-* Simple and interpretable model
+* Simple and interpretable model.
 
-* Works well with structured tabular data
+* Works well with structured tabular data.
 
-* Efficient and fast to train, provides probability outputs, useful in medical diagnosis
+* Efficient and fast to train, provides probability outputs, useful in medical diagnosis.
 
 ## Model Evaluation ##
 
@@ -124,4 +124,4 @@ This project highlights the role of machine learning in bioinformatics and medic
 
 Yusra Tahir
 
-Bioinformatics - University of Bologna
+Masters Student - Bioinformatics  - University of Bologna
