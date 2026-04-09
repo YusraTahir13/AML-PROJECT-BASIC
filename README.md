@@ -10,33 +10,42 @@ The goal is to demonstrate how computational methods can assist in early cancer 
 
 **Source: UCI Machine Learning Repository**
 
-🧬 Description
+# Description #
 
-The dataset contains 569 samples obtained from Fine Needle Aspiration (FNA) biopsies of breast masses.
+The dataset contains 569 samples obtained from **Fine Needle Aspiration (FNA)** biopsies of breast masses.
 
 Each sample is described using 30 numerical features that capture the characteristics of cell nuclei, including:
 
-Radius
-Texture
-Perimeter
-Area
-Smoothness
-Concavity
+* Radius
+  
+* Texture
+  
+* Perimeter
+  
+* Area
+  
+* Smoothness
+  
+* Concavity
 
 These features are computed as:
 
-Mean values
-Standard error (SE)
-Worst (extreme) values
+* Mean values
+  
+* Standard error (SE)
+  
+* Worst (extreme) values
 
-🎯 Objective
+ ## Objective ##
 
 To build a binary classification model that can accurately predict:
 
-Malignant (Cancerous tumor)
-Benign (Non-cancerous tumor)
+* Malignant (Cancerous tumor)
+  
+* Benign (Non-cancerous tumor)
 
-⚠️ Challenges
+## Challenges ##
+
 Presence of highly correlated features (mean, SE, worst values)
 Class imbalance (357 benign vs 212 malignant)
 Need for feature scaling due to varying ranges
