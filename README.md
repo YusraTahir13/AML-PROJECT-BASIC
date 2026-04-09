@@ -24,9 +24,9 @@ These features are computed as:
   
 * Worst (extreme) values
 
- ## Objective ##
+ ## Objectives ##
 
-* To build a binary classification model using Logistic Regression model to accurately classify tumors as benign (Cancerous) or malignant (Non-cancerous) based on cellular morphology.
+* To build a **binary classification model** using Logistic Regression model to accurately classify tumors as **benign (Cancerous)** or **malignant (Non-cancerous)** based on cellular morphology.
 
 * Compare model performance against a baseline classifier to validate predictive improvement.
 
@@ -70,7 +70,7 @@ Train-test split to evaluate model performance
 
 **5. Baseline Model (Dummy Classifier)**
 
-A Dummy Classifier was used as a baseline, predicting the most frequent class without learning from features. It achieved 63% accuracy, serving as a reference to ensure the Logistic Regression model performs better than uninformed prediction.
+A **Dummy Classifier** was used as a baseline, predicting the most frequent class without learning from features. It achieved **63% accuracy**, serving as a reference to ensure the Logistic Regression model performs better than uninformed prediction.
 
 **5. Feature Scaling**
 
@@ -82,25 +82,25 @@ Logistic Regression model used
 
 Handled class imbalance using:
 
-class_weight = 'balanced'
+**class_weight = 'balanced'**
 
 **Why Logistic Regression?**
 
-Simple and interpretable model
+* Simple and interpretable model
 
-Works well with structured tabular data
+* Works well with structured tabular data
 
-Efficient and fast to train, provides probability outputs, useful in medical diagnosis
+* Efficient and fast to train, provides probability outputs, useful in medical diagnosis
 
 ## Model Evaluation ##
 
 The model performance was evaluated using:
 
-Accuracy
+* Accuracy
 
-Confusion Matrix
+* Confusion Matrix
 
-ROC Curve - AUC Score
+* ROC Curve - AUC Score
 
 ## Key Metrics ##
 
@@ -110,11 +110,11 @@ ROC-AUC Score: 0.99
 
 ## Results Interpretation ##
 
-The model successfully distinguishes between malignant and benign tumors
+* The model successfully distinguishes between malignant and benign tumors
 
-Balanced class weights improve detection of malignant cases
+* Balanced class weights improve detection of malignant cases
 
-Feature scaling improves model performance
+* Feature scaling improves model performance
 
 ## Bioinformatics Relevance ##
 
