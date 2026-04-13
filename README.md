@@ -106,7 +106,7 @@ The model performance was evaluated using:
 
 ## Key Metrics ##
 
-Accuracy: 98%
+Accuracy: 97%
 
 ROC-AUC Score: 0.99
 
