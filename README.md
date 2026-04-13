@@ -110,7 +110,7 @@ Accuracy: 98%
 
 ROC-AUC Score: 0.99
 
-All generated output figures have been saved in the corresponding folder for reference.
+All generated output figures have been saved in the [figures folder](https://github.com/YusraTahir13/AML-PROJECT-BASIC/tree/main/figures) for reference.
 
 ## Results Interpretation ##
 
