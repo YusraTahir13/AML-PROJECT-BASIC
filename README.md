@@ -110,6 +110,8 @@ Accuracy: 98%
 
 ROC-AUC Score: 0.99
 
+All generated output figures have been saved in the corresponding folder for reference.
+
 ## Results Interpretation ##
 
 * The model successfully distinguishes between malignant and benign tumors.
