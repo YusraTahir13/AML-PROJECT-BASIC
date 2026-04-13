@@ -62,7 +62,7 @@ All of the workflow is saved in notebook by using the code execution and also th
 
 * Class distribution analysis.
 
-**3.  Feature Engineering**
+**3.  Feature Scaling**
 
 * Identified and handled multicollinearity.
 
