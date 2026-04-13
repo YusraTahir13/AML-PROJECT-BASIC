@@ -61,7 +61,7 @@ All of the workflow is saved in notebook by using the code execution and also th
 * Class distribution analysis.
 
 * Correlation heatmap.
-* 
+  
 * Identified and handled multicollinearity.
 
 * Selected relevant features for model training.
