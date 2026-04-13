@@ -84,9 +84,7 @@ Applied `StandardScaler` to normalize feature values.
 
 Logistic Regression model used
 
-Handled class imbalance using:
-
-**class_weight = 'balanced'**
+Handled class imbalance using: **class_weight = 'balanced'**
 
 **Why Logistic Regression?**
 
