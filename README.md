@@ -82,7 +82,7 @@ Applied `StandardScaler` to normalize feature values.
 
 **6.  Model Building**
 
-Logistic Regression model used
+Logistic Regression model used.
 
 Handled class imbalance using: **class_weight = 'balanced'**
 
