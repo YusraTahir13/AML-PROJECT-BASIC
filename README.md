@@ -44,7 +44,7 @@ These features are computed as:
 
 All of the workflow is saved in notebook by using the code execution and also the markdown is present for description.
 
-[Logistics regression notebook]
+[Logistics regression notebook](https://github.com/YusraTahir13/AML-PROJECT-BASIC/blob/main/Logistic_regression_model.ipynb)
 
 **1.  Data Preprocessing**
 
