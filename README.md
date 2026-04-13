@@ -46,7 +46,7 @@ All of the workflow is saved in notebook by using the code execution and also th
 
 [Logistic_regression_model.ipynb](https://github.com/YusraTahir13/AML-PROJECT-BASIC/blob/main/Logistic_regression_model.ipynb)
 
-**1.  Data Preprocessing**
+**1.  Data Preprocessing and Exploratory Data Analysis (EDA)**
 
 * Removed unnecessary columns (e.g., ID)
 
@@ -54,16 +54,14 @@ All of the workflow is saved in notebook by using the code execution and also th
 
 * Checked for missing values
 
-**2.  Exploratory Data Analysis (EDA)**
+**2.  Feature-wise Data Distribution & Feature Correlation**
 
 * Distribution of features.
 
-* Correlation heatmap.
-
 * Class distribution analysis.
 
-**3.  Feature Scaling**
-
+* Correlation heatmap.
+* 
 * Identified and handled multicollinearity.
 
 * Selected relevant features for model training.
