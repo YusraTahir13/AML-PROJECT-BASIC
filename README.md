@@ -42,7 +42,7 @@ These features are computed as:
 
 ## Methodology ##
 
-All of the workflow is saved in notebook by using the code execution and also the markdown is present for description.
+The entire workflow is documented in the below notebook using executable code cells, along with Markdown cells for detailed descriptions.
 
 [Logistic_regression_model.ipynb](https://github.com/YusraTahir13/AML-PROJECT-BASIC/blob/main/Logistic_regression_model.ipynb)
 
