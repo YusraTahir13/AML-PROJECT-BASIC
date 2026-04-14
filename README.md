@@ -46,7 +46,7 @@ The entire workflow is documented in the below notebook using executable code ce
 
 [Logistic_regression_model.ipynb](https://github.com/YusraTahir13/AML-PROJECT-BASIC/blob/main/Logistic_regression_model.ipynb)
 
-**1.    Data Preprocessing and Exploratory Data Analysis (EDA)**
+**1. Data Preprocessing and Exploratory Data Analysis (EDA)**
 
 * Removed unnecessary columns (e.g., ID)
 
@@ -54,7 +54,7 @@ The entire workflow is documented in the below notebook using executable code ce
 
 * Checked for missing values
 
-**2.    Feature-wise Data Distribution & Feature Correlation**
+**2. Feature-wise Data Distribution & Feature Correlation**
 
 * Distribution of features.
 
