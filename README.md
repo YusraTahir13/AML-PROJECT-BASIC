@@ -22,7 +22,7 @@ These features are computed as:
   
 * Standard error (SE)
   
-* Worst (extreme) values
+* Worst values
 
  ## Objectives ##
 
