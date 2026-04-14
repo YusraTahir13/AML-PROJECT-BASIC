@@ -18,11 +18,11 @@ Each sample is described using **30 numerical features** that capture the charac
 
 These features are computed as:
 
-* Mean values
+* Mean_values
   
-* Standard error (SE)
+* Standard_error (SE)
   
-* Worst values
+* Worst_values
 
  ## Objectives ##
 
