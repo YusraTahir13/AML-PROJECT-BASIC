@@ -66,11 +66,11 @@ The entire workflow is documented in the below notebook using executable code ce
 
 * Selected relevant features for model training.
 
-**4.  Data Splitting**
+**3.  Data Splitting**
 
 Train-test split to evaluate model performance.
 
-**5.  Baseline Model (Dummy Classifier)**
+**4.  Baseline Model (Dummy Classifier)**
 
 A **Dummy Classifier** was used as a baseline, predicting the most frequent class without learning from features. It achieved **63% accuracy**, serving as a reference to ensure the Logistic Regression model performs better than uninformed prediction.
 
