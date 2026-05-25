@@ -44,7 +44,7 @@ These features are computed as:
 
 The entire workflow is documented in the below notebook using executable code cells, along with Markdown cells for detailed descriptions.
 
-[Logistic_regression_model.ipynb](https://github.com/YusraTahir13/AML-PROJECT-BASIC/blob/main/Logistic_regression_model.ipynb)
+[Logistic_regression_model.ipynb](https://github.com/YusraTahir13/AML-PROJECT-BASIC/blob/main/Logistic_regression_model_updated.ipynb)
 
 **1. Data Preprocessing and Exploratory Data Analysis (EDA)**
 
